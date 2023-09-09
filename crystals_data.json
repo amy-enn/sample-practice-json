@@ -1,0 +1,60 @@
+{
+  "crystals": [
+    {
+      "crystal_id": 1,
+      "name": "Amethyst",
+      "color": "Purple",
+      "properties": "Enhances spiritual awareness, aids in meditation, and promotes tranquility.",
+      "rarity": 4
+    },
+    {
+      "crystal_id": 2,
+      "name": "Rose Quartz",
+      "color": "Pale Pink",
+      "properties": "Fosters love, self-compassion, and emotional healing.",
+      "rarity": 3
+    },
+    {
+      "crystal_id": 3,
+      "name": "Clear Quartz",
+      "color": "Clear",
+      "properties": "Amplifies energy, clarity of thought, and spiritual growth.",
+      "rarity": 2
+    },
+    {
+      "crystal_id": 4,
+      "name": "Citrine",
+      "color": "Yellow",
+      "properties": "Attracts wealth, boosts creativity, and promotes positivity.",
+      "rarity": 3
+    },
+    {
+      "crystal_id": 5,
+      "name": "Lapis Lazuli",
+      "color": "Deep Blue with Gold Flecks",
+      "properties": "Enhances wisdom, encourages self-expression, and strengthens intuition.",
+      "rarity": 4
+    },
+    {
+      "crystal_id": 6,
+      "name": "Black Tourmaline",
+      "color": "Black",
+      "properties": "Protects against negative energy, grounding, and purification.",
+      "rarity": 3
+    },
+    {
+      "crystal_id": 7,
+      "name": "Hematite",
+      "color": "Metallic Gray",
+      "properties": "Improves focus, boosts self-esteem, and aids in grounding.",
+      "rarity": 2
+    },
+    {
+      "crystal_id": 8,
+      "name": "Moonstone",
+      "color": "Milky White with Blue Sheen",
+      "properties": "Enhances intuition, promotes emotional balance, and fosters new beginnings.",
+      "rarity": 3
+    }
+  ]
+}
