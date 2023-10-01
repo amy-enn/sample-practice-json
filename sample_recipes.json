@@ -152,5 +152,278 @@
       "10. Enjoy your homemade chocolate chip cookies!"
     ],
     "Yield": "About 36 cookies"
-  }
+  },
+
+  {
+  "Recipe Name": "Chicken Noodle Soup",
+  "Ingredients": [
+    {
+      "ingredient_name": "chicken broth",
+      "ingredient_quantity": "8 cups"
+    },
+    {
+      "ingredient_name": "chicken breast, boneless and skinless",
+      "ingredient_quantity": "2 cups, cooked and shredded"
+    },
+    {
+      "ingredient_name": "carrots, sliced",
+      "ingredient_quantity": "2 cups"
+    },
+    {
+      "ingredient_name": "celery, chopped",
+      "ingredient_quantity": "1 cup"
+    },
+    {
+      "ingredient_name": "onion, diced",
+      "ingredient_quantity": "1 cup"
+    },
+    {
+      "ingredient_name": "egg noodles",
+      "ingredient_quantity": "2 cups, uncooked"
+    },
+    {
+      "ingredient_name": "salt",
+      "ingredient_quantity": "1 tsp, or to taste"
+    },
+    {
+      "ingredient_name": "black pepper",
+      "ingredient_quantity": "1/2 tsp, or to taste"
+    }
+  ],
+  "Instructions": [
+    "1. In a large pot, bring the chicken broth to a boil.",
+    "2. Add the carrots, celery, and onion to the boiling broth. Reduce heat to a simmer and cook for 10 minutes or until the vegetables are tender.",
+    "3. Stir in the shredded chicken and egg noodles. Cook until the noodles are tender, following the package instructions.",
+    "4. Season with salt and black pepper to taste.",
+    "5. Serve hot and enjoy your comforting chicken noodle soup!"
+  ],
+  "Yield": "About 6 servings"
+},
+  {
+  "Recipe Name": "Carrot Cake",
+  "Ingredients": [
+    {
+      "ingredient_name": "all-purpose flour",
+      "ingredient_quantity": "2 cups"
+    },
+    {
+      "ingredient_name": "granulated sugar",
+      "ingredient_quantity": "1 1/2 cups"
+    },
+    {
+      "ingredient_name": "baking powder",
+      "ingredient_quantity": "2 tsp"
+    },
+    {
+      "ingredient_name": "baking soda",
+      "ingredient_quantity": "1/2 tsp"
+    },
+    {
+      "ingredient_name": "salt",
+      "ingredient_quantity": "1/2 tsp"
+    },
+    {
+      "ingredient_name": "ground cinnamon",
+      "ingredient_quantity": "1 tsp"
+    },
+    {
+      "ingredient_name": "vegetable oil",
+      "ingredient_quantity": "1 cup"
+    },
+    {
+      "ingredient_name": "eggs",
+      "ingredient_quantity": "3"
+    },
+    {
+      "ingredient_name": "vanilla extract",
+      "ingredient_quantity": "1 tsp"
+    },
+    {
+      "ingredient_name": "grated carrots",
+      "ingredient_quantity": "2 cups"
+    },
+    {
+      "ingredient_name": "walnuts, chopped",
+      "ingredient_quantity": "1/2 cup"
+    },
+    {
+      "ingredient_name": "raisins",
+      "ingredient_quantity": "1/2 cup"
+    }
+  ],
+  "Instructions": [
+    "1. Preheat your oven to 350°F (175°C) and grease and flour a 9x13-inch baking pan.",
+    "2. In a mixing bowl, whisk together the flour, sugar, baking powder, baking soda, salt, and ground cinnamon.",
+    "3. In another bowl, mix together the vegetable oil, eggs, and vanilla extract until well combined.",
+    "4. Gradually add the wet ingredients to the dry mixture and mix until just combined.",
+    "5. Fold in the grated carrots, chopped walnuts, and raisins.",
+    "6. Pour the batter into the prepared baking pan and spread it evenly.",
+    "7. Bake for 30-35 minutes or until a toothpick inserted into the center comes out clean.",
+    "8. Allow the carrot cake to cool in the pan before frosting or serving.",
+    "9. Enjoy your homemade carrot cake!"
+  ],
+  "Yield": "About 12 servings"
+},
+{
+  "Recipe Name": "Cream Cheese Icing",
+  "Ingredients": [
+    {
+      "ingredient_name": "cream cheese, softened",
+      "ingredient_quantity": "8 oz"
+    },
+    {
+      "ingredient_name": "unsalted butter, softened",
+      "ingredient_quantity": "1/2 cup"
+    },
+    {
+      "ingredient_name": "powdered sugar",
+      "ingredient_quantity": "2 cups"
+    },
+    {
+      "ingredient_name": "vanilla extract",
+      "ingredient_quantity": "1 tsp"
+    },
+    {
+      "ingredient_name": "milk",
+      "ingredient_quantity": "2 tbsp"
+    }
+  ],
+  "Instructions": [
+    "1. In a mixing bowl, beat together the softened cream cheese and unsalted butter until creamy and well combined.",
+    "2. Gradually add the powdered sugar, one cup at a time, and continue to beat until the icing is smooth and fluffy.",
+    "3. Stir in the vanilla extract.",
+    "4. If the icing is too thick, add milk, one tablespoon at a time, until you reach your desired consistency.",
+    "5. Use the cream cheese icing to frost cakes, cupcakes, or other desserts as desired.",
+    "6. Enjoy your creamy and delicious cream cheese icing!"
+  ],
+  "Yield": "Enough to frost one 9x13-inch cake or about 24 cupcakes"
+},
+  {
+  "Recipe Name": "Beef Stew",
+  "Ingredients": [
+    {
+      "ingredient_name": "beef stew meat, cubed",
+      "ingredient_quantity": "1.5 lbs"
+    },
+    {
+      "ingredient_name": "potatoes, peeled and diced",
+      "ingredient_quantity": "2 cups"
+    },
+    {
+      "ingredient_name": "carrots, sliced",
+      "ingredient_quantity": "1 cup"
+    },
+    {
+      "ingredient_name": "onion, chopped",
+      "ingredient_quantity": "1 cup"
+    },
+    {
+      "ingredient_name": "garlic cloves, minced",
+      "ingredient_quantity": "4"
+    },
+    {
+      "ingredient_name": "tomato paste",
+      "ingredient_quantity": "2 tbsp"
+    },
+    {
+      "ingredient_name": "beef broth",
+      "ingredient_quantity": "4 cups"
+    },
+    {
+      "ingredient_name": "thyme, dried",
+      "ingredient_quantity": "1 tsp"
+    },
+    {
+      "ingredient_name": "bay leaves",
+      "ingredient_quantity": "2"
+    },
+    {
+      "ingredient_name": "salt",
+      "ingredient_quantity": "1 tsp, or to taste"
+    },
+    {
+      "ingredient_name": "black pepper",
+      "ingredient_quantity": "1/2 tsp, or to taste"
+    }
+  ],
+  "Instructions": [
+    "1. In a large pot, brown the beef stew meat over medium-high heat until browned on all sides. Remove and set aside.",
+    "2. In the same pot, add the chopped onion and garlic. Sauté until fragrant and translucent.",
+    "3. Stir in the tomato paste and cook for 2 minutes, stirring constantly.",
+    "4. Return the browned beef to the pot. Add potatoes, carrots, thyme, bay leaves, beef broth, salt, and black pepper.",
+    "5. Bring the mixture to a boil, then reduce heat to low, cover, and simmer for about 1.5 to 2 hours or until the beef is tender.",
+    "6. Remove the bay leaves before serving.",
+    "7. Serve your hearty beef stew hot and enjoy!"
+  ],
+  "Yield": "About 6 servings"
+},
+
+{
+  "Recipe Name": "Ratatouille",
+  "Ingredients": [
+    {
+      "ingredient_name": "eggplant, diced",
+      "ingredient_quantity": "1 cup"
+    },
+    {
+      "ingredient_name": "zucchini, diced",
+      "ingredient_quantity": "1 cup"
+    },
+    {
+      "ingredient_name": "yellow bell pepper, diced",
+      "ingredient_quantity": "1 cup"
+    },
+    {
+      "ingredient_name": "red bell pepper, diced",
+      "ingredient_quantity": "1 cup"
+    },
+    {
+      "ingredient_name": "onion, diced",
+      "ingredient_quantity": "1 cup"
+    },
+    {
+      "ingredient_name": "garlic cloves, minced",
+      "ingredient_quantity": "2"
+    },
+    {
+      "ingredient_name": "tomatoes, diced",
+      "ingredient_quantity": "2 cups"
+    },
+    {
+      "ingredient_name": "fresh basil leaves, chopped",
+      "ingredient_quantity": "1/4 cup"
+    },
+    {
+      "ingredient_name": "fresh thyme leaves, chopped",
+      "ingredient_quantity": "1 tbsp"
+    },
+    {
+      "ingredient_name": "olive oil",
+      "ingredient_quantity": "2 tbsp"
+    },
+    {
+      "ingredient_name": "salt",
+      "ingredient_quantity": "1 tsp, or to taste"
+    },
+    {
+      "ingredient_name": "black pepper",
+      "ingredient_quantity": "1/2 tsp, or to taste"
+    }
+  ],
+  "Instructions": [
+    "1. In a large skillet, heat olive oil over medium heat.",
+    "2. Add the diced eggplant, zucchini, yellow and red bell peppers, onion, and minced garlic. Sauté until the vegetables are tender, about 10 minutes.",
+    "3. Stir in the diced tomatoes and continue to cook for another 5 minutes.",
+    "4. Season the mixture with salt, black pepper, fresh basil, and fresh thyme. Cook for an additional 2 minutes.",
+    "5. Remove from heat and serve your ratatouille as a delicious side dish or over pasta.",
+    "6. Enjoy your flavorful ratatouille!"
+  ],
+  "Yield": "About 4 servings"
+}
+
+
+
+
+
+
 ]
