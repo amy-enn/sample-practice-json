@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Andromeda Galaxy",
+    "distanceFromEarth": "2.5 million light-years",
+    "discoveryDate": "October 5, 2250",
+    "distinguishingFeature": "Spiral structure",
+    "planets": [
+      {
+        "name": "Astrion",
+        "type": "Earth-like",
+        "predominantBiome": "Forest",
+        "predominantResource": "Oxygen",
+        "inhabited": true,
+        "discoveryDate": "October 7, 2250",
+        "moons": [
+          {
+            "name": "Luna",
+            "discoveryDate": "October 8, 2250"
+          },
+          {
+            "name": "Celestia",
+            "discoveryDate": "October 8, 2250"
+          }
+        ]
+      },
+      {
+        "name": "Nebulon",
+        "type": "Gas Giant",
+        "predominantBiome": "Storm",
+        "predominantResource": "Helium",
+        "inhabited": false,
+        "discoveryDate": "October 10, 2250"
+      },
+      {
+        "name": "Eclipsion",
+        "type": "Rocky",
+        "predominantBiome": "Desert",
+        "predominantResource": "Silicate",
+        "inhabited": false,
+        "discoveryDate": "October 12, 2250"
+      }
+    ]
+  },
+  {
+    "name": "Whirlpool Galaxy",
+    "distanceFromEarth": "31 million light-years",
+    "discoveryDate": "November 15, 2265",
+    "distinguishingFeature": "Spiral structure with companion galaxy",
+    "planets": [
+      {
+        "name": "Stellara",
+        "type": "Ice Giant",
+        "predominantBiome": "Frozen",
+        "predominantResource": "Methane",
+        "inhabited": false,
+        "discoveryDate": "November 20, 2265",
+        "moons": [
+          {
+            "name": "Frostbite",
+            "discoveryDate": "November 22, 2265"
+          }
+        ]
+      },
+      {
+        "name": "Luminara",
+        "type": "Molten",
+        "predominantBiome": "Lava",
+        "predominantResource": "Lava Energy",
+        "inhabited": true,
+        "discoveryDate": "November 25, 2265",
+        "moons": [
+          {
+            "name": "Ignitia",
+            "discoveryDate": "November 28, 2265"
+          }
+        ]
+      },
+      {
+        "name": "Aetheria",
+        "type": "Terrestrial",
+        "predominantBiome": "Sky Islands",
+        "predominantResource": "Aether Crystals",
+        "inhabited": true,
+        "discoveryDate": "December 1, 2265",
+        "moons": []
+      },
+      {
+        "name": "Vortexia",
+        "type": "Gas Giant",
+        "predominantBiome": "Storm",
+        "predominantResource": "Helium",
+        "inhabited": false,
+        "discoveryDate": "December 5, 2265",
+        "moons": [
+          {
+            "name": "Tempest",
+            "discoveryDate": "December 8, 2265"
+          }
+        ]
+      },
+      {
+        "name": "Zephyria",
+        "type": "Rocky",
+        "predominantBiome": "Wind-swept Plains",
+        "predominantResource": "Wind Energy",
+        "inhabited": false,
+        "discoveryDate": "December 10, 2265",
+        "moons": [
+          {
+            "name": "Galea",
+            "discoveryDate": "December 12, 2265"
+          }
+        ]
+      },
+      {
+        "name": "Aquastra",
+        "type": "Oceanic",
+        "predominantBiome": "Underwater",
+        "predominantResource": "Hydrogen",
+        "inhabited": true,
+        "discoveryDate": "December 15, 2265",
+        "moons": [
+          {
+            "name": "Tidalis",
+            "discoveryDate": "December 18, 2265"
+          }
+        ]
+      },
+      {
+        "name": "Radiantia",
+        "type": "Luminous",
+        "predominantBiome": "Crystal Fields",
+        "predominantResource": "Radiant Crystals",
+        "inhabited": true,
+        "discoveryDate": "December 20, 2265",
+        "moons": []
+      }
+    ]
+  }
+]
