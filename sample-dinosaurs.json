@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Tyrannosaurus rex",
+    "era": "Late Cretaceous",
+    "diet": "Carnivore",
+    "discoveryLocation": "Montana, USA",
+    "discoveryYear": 1902
+  },
+  {
+    "name": "Triceratops",
+    "era": "Late Cretaceous",
+    "diet": "Herbivore",
+    "discoveryLocation": "Wyoming, USA",
+    "discoveryYear": 1887
+  },
+  {
+    "name": "Velociraptor",
+    "era": "Late Cretaceous",
+    "diet": "Carnivore",
+    "discoveryLocation": "Mongolia",
+    "discoveryYear": 1923
+  },
+  {
+    "name": "Stegosaurus",
+    "era": "Late Jurassic",
+    "diet": "Herbivore",
+    "discoveryLocation": "Colorado, USA",
+    "discoveryYear": 1876
+  },
+  {
+    "name": "Brachiosaurus",
+    "era": "Late Jurassic",
+    "diet": "Herbivore",
+    "discoveryLocation": "Colorado, USA",
+    "discoveryYear": 1903
+  },
+  {
+    "name": "Ankylosaurus",
+    "era": "Late Cretaceous",
+    "diet": "Herbivore",
+    "discoveryLocation": "Montana, USA",
+    "discoveryYear": 1908
+  },
+  {
+    "name": "Pteranodon",
+    "era": "Late Cretaceous",
+    "diet": "Piscivore",
+    "discoveryLocation": "Kansas, USA",
+    "discoveryYear": 1876
+  },
+  {
+    "name": "Dilophosaurus",
+    "era": "Early Jurassic",
+    "diet": "Carnivore",
+    "discoveryLocation": "Arizona, USA",
+    "discoveryYear": 1942
+  },
+  {
+    "name": "Spinosaurus",
+    "era": "Late Cretaceous",
+    "diet": "Piscivore/Carnivore",
+    "discoveryLocation": "Morocco",
+    "discoveryYear": 1912
+  },
+  {
+    "name": "Parasaurolophus",
+    "era": "Late Cretaceous",
+    "diet": "Herbivore",
+    "discoveryLocation": "Alberta, Canada",
+    "discoveryYear": 1922
+  }
+]
