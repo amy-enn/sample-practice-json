@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Whiskers",
+    "age": 2,
+    "sex": "Male",
+    "favoriteToy": "Feather wand",
+    "favoriteCatFood": "Salmon Delight",
+    "description": "Whiskers is a playful and curious young cat. He loves chasing after feather wands and enjoys lounging in sunny spots. A delightful companion for someone who appreciates a spirited feline friend.",
+    "imageFilename": "1.png"
+  },
+  {
+    "id": 2,
+    "name": "Mittens",
+    "age": 3,
+    "sex": "Female",
+    "favoriteToy": "Yarn ball",
+    "favoriteCatFood": "Chicken Feast",
+    "description": "Mittens is a sweet and gentle cat with a love for yarn balls. She enjoys cuddling up on laps and has a calm demeanor. Ideal for someone seeking a loving and affectionate feline companion.",
+    "imageFilename": "2.png"
+  },
+  {
+    "id": 3,
+    "name": "Oreo",
+    "age": 1,
+    "sex": "Male",
+    "favoriteToy": "Mouse plushie",
+    "favoriteCatFood": "Tuna Temptation",
+    "description": "Oreo is a playful and energetic kitten who adores his mouse plushie. He's always ready for a game of chase or a nap in a cozy bed. Perfect for a household looking to add a lively and lovable member to the family.",
+    "imageFilename": "3.png"
+  },
+  {
+    "id": 4,
+    "name": "Sasha",
+    "age": 4,
+    "sex": "Female",
+    "favoriteToy": "Interactive laser pointer",
+    "favoriteCatFood": "Beef Bites",
+    "description": "Sasha is an intelligent and curious cat who loves interactive play with a laser pointer. She has a sleek black coat and a charming personality. An excellent choice for someone looking for a clever and engaging feline companion.",
+    "imageFilename": "4.png"
+  },
+  {
+    "id": 5,
+    "name": "Leo",
+    "age": 5,
+    "sex": "Male",
+    "favoriteToy": "Catnip mouse",
+    "favoriteCatFood": "Salmon Delight",
+    "description": "Leo is a laid-back and affectionate cat who enjoys lounging around with his catnip mouse. He's great with children and other pets, making him an ideal addition to a loving family looking for a gentle and friendly cat.",
+    "imageFilename": "5.png"
+  },
+  {
+    "id": 6,
+    "name": "Cleo",
+    "age": 2,
+    "sex": "Female",
+    "favoriteToy": "Sisal ball",
+    "favoriteCatFood": "Seafood Sensation",
+    "description": "Cleo is a playful and mischievous cat who loves batting around a sisal ball. She has a sleek and elegant appearance and would make a wonderful companion for someone seeking a spirited and fun-loving feline friend.",
+    "imageFilename": "6.png"
+  },
+  {
+    "id": 7,
+    "name": "Max",
+    "age": 6,
+    "sex": "Male",
+    "favoriteToy": "Plush mouse",
+    "favoriteCatFood": "Chicken Feast",
+    "description": "Max is a mature and laid-back cat who enjoys relaxing with his plush mouse. He's a great listener and loves being brushed. Perfect for someone looking for a calm and gentle cat to share quiet moments with.",
+    "imageFilename": "7.png"
+  },
+  {
+    "id": 8,
+    "name": "Luna",
+    "age": 1,
+    "sex": "Female",
+    "favoriteToy": "Feather teaser",
+    "favoriteCatFood": "Tuna Temptation",
+    "description": "Luna is a playful and spirited kitten who can't resist a feather teaser. She's full of energy and loves to explore her surroundings. An ideal match for someone looking to bring a lively and adorable feline into their home.",
+    "imageFilename": "8.png"
+  },
+  {
+    "id": 9,
+    "name": "Oliver",
+    "age": 3,
+    "sex": "Male",
+    "favoriteToy": "Catnip pillow",
+    "favoriteCatFood": "Beef Bites",
+    "description": "Oliver is a friendly and sociable cat who adores his catnip pillow. He enjoys being around people and has a charming personality. A great choice for someone looking for a loving and sociable feline companion.",
+    "imageFilename": "9.png"
+  }
+]
